@@ -1,0 +1,38 @@
+export { default as Logo } from "./icons/logo.png";
+export { default as Certification } from "./icons/certificate-icon.png";
+export { default as Contact } from "./icons/contact-icon.png";
+export { default as Education } from "./icons/education-icon.png";
+export { default as Home } from "./icons/home-icon.png";
+export { default as Menu } from "./icons/menu-icon.png";
+export { default as Profile } from "./icons/profile-icon.png";
+export { default as Projects } from "./icons/projects-icon.png";
+export { default as Skills } from "./icons/skills-icon.png";
+export { default as Training } from "./icons/training-icon.png";
+export { default as Experience } from "./icons/experience-icon.png";
+export { default as DownArrow } from "./icons/downarrow-icon.png";
+export { default as Html } from "./icons/html-icon.jpg";
+export { default as Css } from "./icons/css-icon.jpg";
+export { default as Javascript } from "./icons/js-icon.png";
+export { default as Cplusplus } from "./icons/cplusplus-icon.png";
+export { default as Dsa } from "./icons/dsa-icon.jpg";
+export { default as Tailwind } from "./icons/tailwind-icon.png";
+export { default as Reactjs } from "./icons/react-icon.png";
+export { default as Nodejs } from "./icons/nodejs-icon.png";
+export { default as Mongodb } from "./icons/mongodb-icon.png";
+export { default as Mysql } from "./icons/mysql-icon.png";
+export { default as Php } from "./icons/php-icon.png";
+export { default as Python } from "./icons/python-icon.jpg";
+export { default as Express } from "./icons/express-icon.png";
+export { default as LinkedIn } from "./icons/linkedin-icon.jpg";
+export { default as Gmail } from "./icons/gmail-icon.png";
+export { default as Whatsapp } from "./icons/whatsapp-icon.png";
+export { default as Github } from "./icons/github-icon.png";
+
+export { default as HomePage } from "./images/home-page.png";
+export { default as MyPhoto } from "./images/photo.jpg";
+export { default as SchoolImage } from "./images/school-image.png";
+export { default as CollegeImage} from "./images/college-image.png";
+export { default as skillIndia } from "./images/skill-india-image.png";
+export { default as internshalaTraining } from "./images/int-training-image.png";
+export { default as sorryImage} from "./images/sorry-image.jpg";
+
