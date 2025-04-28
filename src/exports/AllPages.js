@@ -1,10 +1,10 @@
-export { default as Home } from '../Pages/Home';
-export { default as About } from '../Pages/About';
-export { default as Contact } from '../Pages/Contact';
-export { default as Education } from '../Pages/Education';
-export { default as Skills } from '../Pages/Skills';
-export { default as Certification } from '../Pages/Certification';
-export { default as Projects } from '../Pages/Projects';
-export { default as Training } from '../Pages/Training';
-export {default as Experience} from "../pages/Experience"
-export {default as NoPage} from "../pages/Nopage"
+export { default as Home } from '../Pages/Home.jsx';
+export { default as About } from '../Pages/About.jsx';
+export { default as Contact } from '../Pages/Contact.jsx';
+export { default as Education } from '../Pages/Education.jsx';
+export { default as Skills } from '../Pages/Skills.jsx';
+export { default as Certification } from '../Pages/Certification.jsx';
+export { default as Projects } from '../Pages/Projects.jsx';
+export { default as Training } from '../Pages/Training.jsx';
+export {default as Experience} from "../Pages/Experience.jsx"
+export {default as NoPage} from "../Pages/Nopage.jsx"
